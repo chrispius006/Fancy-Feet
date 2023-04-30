@@ -701,7 +701,11 @@ label #cancel{
       .service, .service2{
         display: flex;     
         margin-left: 15px;
+        margin-bottom: -16px;
+    }
+    .service{
         margin-top:20px ;
+       
     }
     .m{
         margin-bottom: 30px;
