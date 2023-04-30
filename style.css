@@ -486,7 +486,7 @@ hr{
     position: absolute;
 }
 p,ol,ul,ol li{
-    font-size: 18px;
+    font-size: 15px;
     color: #000;
     font-family: 'Raleway', sans-serif;
     line-height: 30px;
@@ -702,10 +702,11 @@ label #cancel{
         display: flex;     
         margin-left: 15px;
         margin-bottom: -16px;
+      
     }
     .service{
         margin-top:20px ;
-       
+       margin-left: 10px;
     }
     .m{
         margin-bottom: 30px;
